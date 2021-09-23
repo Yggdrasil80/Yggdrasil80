@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Yggdrasil80</h1>
+<h2 align="center">I'm a French Java Developer</h2>
 
-<!--
-**Yggdrasil80/Yggdrasil80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🔭 I’m currently working on [EDLib](https://github.com/Yggdrasil80/EDLib), a complete and multi Languages lib for Ecole Directe.
+ - 🌱 I’m currently learning advanced [OpenGL](https://github.com/LWJGL/lwjgl3), with LWJGL3, and C++.
+ - 💬 Ask me about Minecraft, like MCP, Forge, Fabric, Spigot and Bungeecord, or about JavaFx.
+ - 📫 How to reach me: Yggdrasil80#1187
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yggdrasil80&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yggdrasil80&layout=compact&theme=synthwave" />
+</a>
