@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Yggdrasil80</h1>
 <h2 align="center">I'm a French Java Developer</h2>
 
- - 🔭 I’m currently working on [EcoleDirecteAPI](https://github.com/Yggdrasil80/EcoleDirecteAPI), a complete and multi Languages lib for Ecole Directe.
+ - 🔭 I’m currently working on [Hyriode](https://discord.hyriode.fr/), a Minecraft Server
  - 🌱 I’m currently learning advanced [OpenGL](https://github.com/LWJGL/lwjgl3), with LWJGL3, and C++.
  - 💬 Ask me about Minecraft, like MCP, Forge, Fabric, Spigot and Bungeecord, or about JavaFx.
  - 📫 How to reach me: Yggdrasil80#1187
